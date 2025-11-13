@@ -1,10 +1,5 @@
 streamlit
-json
 requests
-urllib3
-datetime
 gspread
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
+google-oauth2
 Pillow
