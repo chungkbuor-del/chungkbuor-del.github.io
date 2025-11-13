@@ -1,5 +1,6 @@
 streamlit
 requests
 gspread
-google-oauth2
+google-auth
+google-auth-oauthlib
 Pillow
